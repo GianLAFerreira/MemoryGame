@@ -2,16 +2,18 @@
 
 
 <h1 align="center">
-   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="220px" /> 
+   <img alt="JobsCalc" title="JobsCalc" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Tela%20de%20login.png" width="960" /> 
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
+## Como baixar?
+
+<p>Para baixar o casadinho você deve ir no botão "Code" e selecionar a opção "download ZIP"</p>
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
