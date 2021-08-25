@@ -11,42 +11,39 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Como baixar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-## Como baixar?
+## Como baixar
 
 <p>Para baixar o casadinho você deve ir no botão "Code" e selecionar a opção "download ZIP"</p>
 
+<p align="center">
+    <img alt="Botão code" title="Botão code" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Download.png" width="500">
+</p>
 
-<img alt="Botão code" title="Botão code" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Download.png" width="500">
-
-<p>Ao finalizar o download você pode extrair o arquivo. Lembre que é importante extrair o arquivo assim como foi realizado o download para não danificar a estrutura do projeto</p>
+<p>Ao finalizar o download você pode extrair o arquivo. Lembre que é importante extrair o arquivo assim como foi realizado o download para não danificar a estrutura do projeto
+</p>
 <br>
 <p>Finalizando o download você pode abrir o arquivo com nome "login" que irá conter o ícone do seu navegador padrão.
+</p>
 
-
+<p align="center" >
+    <img alt="Imagem de qual arquivo deve ser aberto" title="Imagem de qual arquivo deve ser aberto" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Arquivo%20do%20jogo.png" width="500"> 
+</p>
  
-
 <br>
 
 <p align="center">
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🎮 Como jogar
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
+Para jogar basta abrir o arquivo conforme instruico acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo levado que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
 
 ## 💻 Projeto
 
