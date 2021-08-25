@@ -1,4 +1,4 @@
-# MemoryGame
+# 🂿 MemoryGame 
 
 
 <h1 align="center">
@@ -13,7 +13,7 @@
 </p>
 
 
-## Como baixar
+## 🖧 Como baixar
 
 <p>Para baixar o casadinho você deve ir no botão "Code" e selecionar a opção "download ZIP"</p>
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=gcZbPj5_icA
 
 ## 🎮 Como jogar
 
-Para jogar basta abrir o arquivo conforme instruicão acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
+Para jogar basta abrir o arquivo conforme instrucão acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
 
 Caso o jogo não fique em uma resolução boa, basta apertar CRTL - que assim o jogo irá ajustar a renderização. 
 
