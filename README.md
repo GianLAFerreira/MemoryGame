@@ -10,11 +10,6 @@
     <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Como baixar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## Como baixar
 
@@ -45,13 +40,17 @@
 
 Para jogar basta abrir o arquivo conforme instruico acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo levado que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
 
-## 💻 Projeto
+## 💻 Descrição do Projeto 
 
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O Casadinho é uma espécie de releitura do “Jogo da Memória”, com objetivo de ensinar crianças de séries iniciais a associarem a figura dos animais com a letra inicial dos respectivos nomes. Basicamente, os estudantes deverão informar seu nome ao iniciar o jogo, após isso ele irá selecionar duas cartas das que estarão dispostas para ele, até
+encontrar todos os pares. Cada vez que o jogador achar o par que contenha a figura do animal correspondendo a inicial da letra do animal o sistema irá deixar elas viradas para cima. Ao final do jogo será mostrado o tempo que o usuário utilizou para encontrar todos
+os pares e o tempo dos outros jogadores anteriores, fazendo uma espécie de ranking. 
 
-## 🔖 Layout
+## 🔖 Especificações
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+O jogo poderá ser jogado através de qualquer navegador (de preferência google Chromeou Microsoft Edge), para que seja disponívelpara todos os usuários. O aplicativo permitirá jogar contra o próprio sistema, onde seu objetivo é descobrir todos os pares no
+menor tempo possível. O jogo será desenvolvido em 3 linguagens, HTML (HyperText Markup Language) que será responsável para criar a base site onde será criado os blocos e conteúdos do jogo. CSS (Cascading Style Sheets) que será responsável para dar o design e definir
+as posições dos objetos criados pelo HTML. E última linguagem a ser utilizada é JavaScript que será responsável por dar ações aos objetos e assim dar vida ao jogo.
 
 ## :memo: Licença
 
