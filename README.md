@@ -27,6 +27,10 @@
 <p>Finalizando o download você pode abrir o arquivo com nome "login" que irá conter o ícone do seu navegador padrão.
 </p>
 
+Caso dificuldade em baixar, disponibilizei esse link para o Youtube explciando como baixar e jogar o jogo.
+
+https://www.youtube.com/watch?v=gcZbPj5_icA 
+
 <p align="center" >
     <img alt="Imagem de qual arquivo deve ser aberto" title="Imagem de qual arquivo deve ser aberto" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Arquivo%20do%20jogo.png" width="500"> 
 </p>
@@ -36,7 +40,9 @@
 
 ## 🎮 Como jogar
 
-Para jogar basta abrir o arquivo conforme instruico acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo levado que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
+Para jogar basta abrir o arquivo conforme instruicão acima e colocar seu nome a apertar em jogar. Ao achar todos os pares o sistema irá mostrar o tempo que foi levado para concluir o jogo. Caso queira bater seu tempo é só apertar em jogar novamente 🤓 .
+
+Caso o jogo não fique em uma resolução boa, basta apertar CRTL - que assim o jogo irá ajustar a renderização. 
 
 ## 💻 Descrição do Projeto 
 
