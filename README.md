@@ -27,13 +27,14 @@
 <p>Finalizando o download você pode abrir o arquivo com nome "login" que irá conter o ícone do seu navegador padrão.
 </p>
 
-Caso dificuldade em baixar, disponibilizei esse link para o Youtube explciando como baixar e jogar o jogo.
-
-https://www.youtube.com/watch?v=gcZbPj5_icA 
 
 <p align="center" >
     <img alt="Imagem de qual arquivo deve ser aberto" title="Imagem de qual arquivo deve ser aberto" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Arquivo%20do%20jogo.png" width="500"> 
 </p>
+
+Caso dificuldade em baixar, disponibilizei esse link para o Youtube explciando como baixar e jogar o jogo.
+
+https://www.youtube.com/watch?v=gcZbPj5_icA 
  
 <br>
 
