@@ -1,25 +1,25 @@
 "use strict"
 const cardBoard = document.querySelector("#cardboard");
 const imgs = [
-    "Letra A.svg",
     "Letra B.svg",
-    "Letra C.svg",
+    "Letra A.svg",
     "Letra D.svg",
-    "Letra E.svg",
     "Letra F.svg",
     "Letra G.svg",
-    "Letra H.svg"
+    "Letra E.svg",
+    "Letra H.svg",
+    "Letra C.svg"
 ];
 
 const imgs2 = [
-    "Letra A.svg",
-    "Letra B.svg",
-    "Letra C.svg",
+    "Letra H.svg",
     "Letra D.svg",
     "Letra E.svg",
+    "Letra C.svg",
     "Letra F.svg",
     "Letra G.svg",
-    "Letra H.svg"
+    "Letra A.svg",
+    "Letra B.svg"
 ];
 
 let cardHTML = "";

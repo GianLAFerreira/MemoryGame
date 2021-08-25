@@ -3,6 +3,8 @@
 
 <h1 align="center">
    <img alt="JobsCalc" title="JobsCalc" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Tela%20de%20login.png" width="960" /> 
+    <br> <br> <br>
+   <img alt="JobsCalc" title="JobsCalc" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Jogo.png" width="960" />
 </h1>
 
 <p align="center">
