@@ -6,6 +6,11 @@
 </h1>
 
 <p align="center">
+    <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -14,11 +19,16 @@
 ## Como baixar?
 
 <p>Para baixar o casadinho você deve ir no botão "Code" e selecionar a opção "download ZIP"</p>
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+
+<img alt="Botão code" title="Botão code" src="https://raw.githubusercontent.com/GianLAFerreira/MemoryGame/main/img/Download.png" width="500">
+
+<p>Ao finalizar o download você pode extrair o arquivo. Lembre que é importante extrair o arquivo assim como foi realizado o download para não danificar a estrutura do projeto</p>
+<br>
+<p>Finalizando o download você pode abrir o arquivo com nome "login" que irá conter o ícone do seu navegador padrão.
+
+
+ 
 
 <br>
 
