@@ -1,82 +1,52 @@
+body{
+    margin: 0;
+    background-color: #fbe200
+}
+header{
+    background-color: #fbe200;
+    margin: auto;
+    width: 100%;
+    height: 300px;
+    
+}   
 
-div{
-  display: inline-block;
+main{
+    height: 100%;
+    background-color: #fbe200;
+    margin:auto;
+   
+}
+h1{ 
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+    font-family: 'Rampart One', cursive;
+}
+form{
+    margin: 40px 0;
 }
 
-*{
-  margin: 0;
-  background-color: black;
+fieldset{
+    width: 500px;
+    margin: auto;
+    border: none;
+}
+form{
+    padding-left: 100px;
 }
 
-body {
-  height: 100vh;
-  display: flex;
-  background: black;
+form label{
+    display: block;
+    font-size:25px;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%; 
 }
-
-
-
-#cardboard {
-  width: 50%;
-  height: 68%;
-  display: flex;
-  flex-wrap: wrap;
-  box-sizing: border-box;
-  background-color: black;
-  padding-left: 13%;
-  padding-top: 5%;
+#login{
+    display: block;
+    padding: 20px 50px 5px 20px
 }
-.rankings{
-  width: 50%;
-  height: 55%;
-}
-
-.item {
-	margin: 5px;
-	background: #fbe200;
-	text-align: center;
-	font-size: 1.5em;
-}
-
-.grid {
-  display: grid;
-	max-width: 400px;
-	margin:23% 0px 0px 30%;
-	border: 1px solid #fbe200;
-}
-
-.memory-card {
-  width: calc(25% - 40px);
-  height: 33%;
-  margin: 5px;
-  transform-style: preserve-3d;
-  transition: 1.0s;
-  position: relative;
-}
-
-.memory-card:active {
-  transform: scale(1);
-}
-
-.memory-card.flip {
-  transform: rotateY(180deg);
-}
-
-.front-face,
-.back-face {
-  width: 100%;
-  height: 100%;
-  padding: 20px;
-  position: absolute;
-  background: #fbe200;
-  border-radius: 25%;
-  box-sizing: border-box;
-}
-
-.front-face {
-  transform: rotateY(180deg);
-}
-h1{
-  color: #ffffff;
-  display: inline
+.botao-login{
+    padding: 10px 50px 10px 50px;
+    margin: 20px 0 0 50px
 }
