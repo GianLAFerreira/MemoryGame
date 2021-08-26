@@ -59,7 +59,7 @@ as posições dos objetos criados pelo HTML. E última linguagem a ser utilizada
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/license) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/GianLAFerreira/MemoryGame/blob/main/LICENSE) para mais detalhes.
 
 ---
 
