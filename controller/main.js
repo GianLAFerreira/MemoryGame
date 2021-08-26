@@ -22,6 +22,8 @@ const imgs2 = [
     "Letra B.svg"
 ];
 
+
+
 let cardHTML = "";
 
 imgs.forEach(img => {
